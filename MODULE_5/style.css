@@ -1,0 +1,46 @@
+h1 {
+	text-align: center
+}
+
+#one {
+	color: red
+}
+#two {
+	color:blue
+}
+#three {
+	color:green
+}
+#four { 
+	font-size: x-large;
+}
+#five {
+	font-size:10px;
+}
+#six {
+	text-align: center;
+}
+#seven  {
+	font-weight: bold;
+}
+#eight  {
+		font-family: fantasy;
+}
+#nine {
+
+	font-weight: bold; color: orange; font-size: 30px;
+}
+#ten  {
+
+	font-size: 10px;
+}
+
+
+p.styledFont {
+	color: green
+}
+#styledImage  {  
+	border-width: 10px; border-style: double; border-color: yellow;
+
+
+}
